@@ -1,0 +1,33 @@
+.cont
+{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.one,.two,.three
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-bottom: 2rem;
+}
+.four,.five,.six,.eight,.icons
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-bottom: 2rem;
+}
+.seven
+{
+    display: grid;
+    margin-bottom: 2rem;
+}
+textarea
+{
+    padding: 12px 20px;
+    width: 50%;
+    border-radius: 8px;
+    height: 100%;
+}
+.inside
+{
+    display: flex;
+}

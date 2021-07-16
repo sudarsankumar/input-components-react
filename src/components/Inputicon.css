@@ -1,0 +1,29 @@
+.conta
+{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.input-cont
+{
+    display: flex;
+    width: 60%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid var(--normal);
+    border-radius: var(--borrad);
+    box-sizing: border-box;
+}
+.inputs
+{
+    outline: none;
+    width: 93%;
+    border: none;
+}
+.input-cont:hover
+{
+    border: 1px solid var(--normal-hover);
+}
+.input:focus
+{
+    border: 1px solid var(--normal-focus);
+}

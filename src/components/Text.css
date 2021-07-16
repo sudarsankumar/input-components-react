@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+.hover-text
+{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 12px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: 400;
+    color: #828282;
+    margin-bottom: 1rem;
+}
+.button-text
+{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 12px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: 400;
+    color: #333333;
+    margin-bottom: 1rem;
+}
