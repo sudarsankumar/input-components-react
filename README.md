@@ -1,6 +1,6 @@
 # Input-Components-React
 
-This is basic input component Template Done by using _react_ and _Tailwind_ developed by **G.Rubak preyan**
+This is basic input component Template Done by using _react_ and _CSS_ developed by **N. Sudarsan Kumar**
 ![](https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FInputThumbnail.png%3Falt%3Dmedia%26token%3D73685593-9026-42a6-8c68-00243071250e&w=640&q=75)
 
 ## Installation
